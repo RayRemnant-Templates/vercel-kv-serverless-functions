@@ -6,5 +6,8 @@
   },
   "author": "rayremnant",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
 }
